@@ -1,0 +1,34 @@
+body {
+    background-color: beige;
+    font-family: Arial;
+    text-align: center;
+    margin: 20px;
+}
+
+.tarjeta {
+    background-color: white;
+    width: 350px;
+    margin: 30px;
+    padding: 20px;
+}
+
+img {
+    width: 200px;
+    height: 250px;
+}
+
+h1 {
+    color: lightslategray;
+    font-size: 30px;
+}
+
+h2 {
+    color: green;
+    font-size: 22px;
+}
+
+p {
+    color: brown;
+    font-size: 16px;
+    line-height: 1.6;
+}
